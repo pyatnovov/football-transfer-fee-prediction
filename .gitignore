@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+# Data 
+data/raw/
+data/interim/
+data/processed/
+
+# Формати даних
+*.csv
+*.csv.gz
+*.parquet
+*.duckdb
+*.db
+*.sqlite
+*.zip
+*.gz
 # Distribution / packaging
 .Python
 build/
